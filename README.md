@@ -150,15 +150,17 @@ All screenshots used in this project are availble in screenshots folder
 
 * Key Insights
 
-*Electronics & Fashion categories generate the highest revenue
+*Electronics category contributed 45% of revenue”,
 
-*Repeat customers contribute significant revenue
+*Mumbai state had highest orders
 
-*Certain states and cities perform much better
+*Revenue peaked in March & April, likely due to seasonal spending.
 
-*Window functions help identify top customers
+*Telangana and Karnataka were the strongest performing states
 
-*Monthly sales trends show seasonality
+* Hyderabad and Bangalore together contributed over 50% of total revenue.
+
+* Window functions help identify top customers
 
   #Tech Stack Used
 
