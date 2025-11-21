@@ -145,14 +145,15 @@ ORDER BY RevenueRank;
 
  #Screenshot
 
-![Tables](screenshots/01_Tables.png.png)
-![Products](screenshots/02_Products_Top5.png.png)
-![Customers](screenshots/03_Customers_Top5.png.png)
-![Revenue](screenshots/04_Total_Revenue.png.png)
-![TopCustomers](screenshots/05_Top_Customers.png.png)
-![CategoryRevenue](screenshots/06_Category_Revenue.png.png)
-![MonthlyRevenue](screenshots/07_Monthly_Revenue.png.png)
-![Ranking](screenshots/08_Customer_Ranking.png.png)
+![Tables](screenshots/01_Tables.png)
+![Products](screenshots/02_Products_Top5.png)
+![Customers](screenshots/03_Customers_Top5.png)
+![Revenue](screenshots/04_Total_Revenue.png)
+![TopCustomers](screenshots/05_Top_Customers.png)
+![CategoryRevenue](screenshots/06_Category_Revenue.png)
+![MonthlyRevenue](screenshots/07_Monthly_Revenue.png)
+![Ranking](screenshots/08_Customer_Ranking.png)
+
 
 
 * Key Insights
