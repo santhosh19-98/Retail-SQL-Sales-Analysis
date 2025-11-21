@@ -145,7 +145,7 @@ ORDER BY RevenueRank;
 
  #Screenshot
 
-All screenshots used in this project are available here:
+All screenshots used in this project are availble in screenshots folder 
 
 
 * Key Insights
